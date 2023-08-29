@@ -16,8 +16,8 @@ function timeConverter(str) {
     if (obj.hour === 12) {
       time = `00:${obj.minute}:${obj.sec}`;
       console.log(time);
-    } else {
-      time = `${obj.hour}:${obj.minute}:${obj.sec}`;
+    } else if (obj.hour < 12) {
+      time = `0${obj.hour}:${obj.minute}:${obj.sec}`;
       console.log(time);
     }
   } else {
