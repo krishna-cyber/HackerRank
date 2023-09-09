@@ -13,6 +13,10 @@ Clone the repository and run the solution manually.
 
 ## Screenshots
 
+![breaking records](https://raw.githubusercontent.com/krishna-cyber/HackerRank/main/screenshots/breakingrecord.png)
+![camal case](https://raw.githubusercontent.com/krishna-cyber/HackerRank/main/screenshots/camelcase.png)
+![Code](https://raw.githubusercontent.com/krishna-cyber/HackerRank/main/screenshots/code.png)
+
 ## License
 
 This project is licensed under the MIT License.
